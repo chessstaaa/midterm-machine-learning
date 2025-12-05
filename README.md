@@ -1,4 +1,4 @@
-# UTS Machine Learning & Deep Learning
+# UTS Machine Learning
 
 **Nama:** Darrell Chesta Adabi  
 **Kelas:** Pembelajaran Mesin  
